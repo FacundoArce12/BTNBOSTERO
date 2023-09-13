@@ -1,0 +1,43 @@
+#botonMusica{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 20% !important; 
+    height: 20% !important;
+    border-radius: 50%;
+    font-size: 150%;
+}
+img{
+    position: absolute;
+    top: 5%;
+    left: 41%;
+    transform: translate(-20%, -20%);
+    width: 30% ; 
+    height: 50% 
+}
+.btn-dark {
+    background-color: #ffee03   ;
+    color: blue;
+}
+.btn-dark:hover{
+    background-color: #ffee03;
+    color: blue;
+}
+.bg-light {
+    background-color: blue !important;
+}
+ 
+.bg-dark{
+    background-color: #ffee03 !important;
+}
+
+
+.btn-light {
+    background-color: blue !important;
+    color: #ffee03  ;
+}
+.btn-light:hover {
+    background-color: blue !important;
+    color: #ffee03  ;
+}
